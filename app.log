@@ -1,0 +1,4 @@
+2025-09-15 00:04:44,669 - __main__ - INFO - Êã ÇÓÊáÇã ØáÈ ÌÏíÏ: {'user_id': 'string', 'latitude': 0.0, 'longitude': 0.0, 'emergency_type': 'string', 'address': 'string', 'description': 'string', 'additional_data': {'additionalProp1': {}}}
+2025-09-16 17:32:43,493 - __main__ - INFO - Êã ÇÓÊáÇã ØáÈ ÌÏíÏ: {'user_id': 'test_user', 'latitude': 24.7136, 'longitude': 46.6753, 'emergency_type': 'ambulance', 'address': 'ÇáÑíÇÖ', 'description': None, 'additional_data': None}
+2025-09-16 18:10:53,773 - __main__ - INFO - ØáÈ ØæÇÑÆ ÌÏíÏ: {'user_id': 'test_user', 'latitude': 24.7136, 'longitude': 46.6753, 'emergency_type': 'ambulance', 'address': 'ÇáÑíÇÖ¡ Íí ÇáãáÒ', 'description': 'ãÑíÖ íÍÊÇÌ ÅÓÚÇİ ÚÇÌá', 'additional_data': None}
+2025-09-16 19:11:17,718 - __main__ - INFO - ØáÈ ØæÇÑÆ ÌÏíÏ: {'user_id': 'string', 'latitude': 0.0, 'longitude': 0.0, 'emergency_type': 'string', 'address': 'string', 'description': 'string', 'additional_data': {'additionalProp1': {}}}
